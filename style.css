@@ -1,0 +1,326 @@
+.body {
+    background-size: cover;
+    margin: 0px;
+    font-family: 'Poppins';
+
+}
+
+.banner-img {
+    position: absolute;
+    top: 0;
+}
+
+.banner-text {
+    position: relative;
+    margin-top: 250px;
+    text-align: center;
+    color: white;
+
+
+
+
+
+}
+
+.font-title {
+    font-size: 65px;
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 700;
+
+
+
+
+}
+
+.font-title-2 {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Poppins';
+}
+
+
+
+
+
+.link-button {
+    background-color: #FF5959;
+    color: white;
+    text-decoration: none;
+    padding: 18px;
+    border-radius: 5px;
+    font-size: 20px;
+
+
+}
+
+.text-3 {
+    text-align: center;
+    font-size: 18px;
+
+
+
+}
+
+.global-section-2 {
+    padding: 120px;
+
+
+
+}
+
+
+
+
+
+.global-head-p {
+    font-size: 13px;
+    padding: 50px;
+
+}
+
+
+
+
+.donate-ammount {
+    margin-top: 300px;
+
+
+}
+
+.donate-text {
+    font-size: 24px;
+    text-align: center;
+}
+
+.donate-ammount-box {
+    display: flex;
+    margin: 170px;
+
+
+}
+
+
+
+.ammount {
+    width: 136px;
+    height: 123px;
+    border: 1px lightgray solid;
+    border-radius: 5px;
+    margin-right: 70px;
+    padding: 6px;
+    text-align: center;
+
+
+
+}
+
+
+
+
+
+#highlighted-ammount {
+    width: 136px;
+    height: 123px;
+    border-radius: 5px;
+    background-color: #FFEEEE;
+    border: 2px #FF5959 solid;
+
+    margin-right: 70px;
+    padding: 6px;
+    text-align: center;
+
+}
+
+
+
+
+.btn-2 {
+    text-align: center;
+    padding: 70px;
+}
+
+
+.donate-plan-box {
+    display: flex;
+
+}
+
+.plan-box {
+    width: 360px;
+    height: 352px;
+    border: 2px lightgray solid;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 6px;
+    font-size: 18px;
+    font-weight: 400;
+    background: rgba(79, 157, 166, 0.1);
+
+}
+
+#plan-box-1 {
+    background: rgba(255, 89, 89, 0.1);
+
+
+}
+
+
+
+
+.head-top {
+    text-align: center;
+    font-size: 45px;
+
+
+
+}
+
+.head-6 {
+    text-align: center;
+    font-size: 22px;
+    font-weight: 400;
+    padding: 30px;
+
+
+}
+
+.top-benner {
+    display: flex;
+    padding: 156px;
+    margin-left: 20px;
+
+
+
+
+}
+
+.half-section {
+    display: block;
+    padding-left: 40px;
+
+
+
+}
+
+
+
+
+
+.font-text {
+    font-size: 18px;
+    font-weight: 400;
+    padding: 20px;
+    padding-left: 5px;
+
+}
+
+.font {
+    font-size: 36px;
+    text-align: center;
+
+
+}
+
+.font-3 {
+    font-family: 400;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+
+
+
+
+}
+
+
+
+
+.update {
+
+    position: absolute;
+    width: 809px;
+    height: 160px;
+    left: 280px;
+    top: 3542px;
+    margin-bottom: 10px;
+    background: #f1d68c;
+}
+
+.box-5 {
+    position: absolute;
+    width: 809px;
+    height: 100px;
+    left: 327px;
+    top: 3620px;
+    margin: 40px;
+    background: #FFF4D6;
+    text-align: center;
+    padding-top: 20px;
+
+
+
+}
+
+.input {
+
+    font-size: 18px;
+    padding: 15px 20px;
+    margin: 10px;
+    border: none;
+    text-align: justify;
+    outline: none;
+    background: #FEFEFE;
+    border-radius: 5px 0px 0px 5px;
+
+
+
+}
+
+#btn {
+
+    font-size: 18px;
+    padding: 15px 20px;
+    margin: 0;
+    border-radius: 5px;
+    text-align: justify;
+    outline: none;
+    background: #FF5959;
+    border: none;
+    color: #FEFEFE;
+
+}
+
+
+
+
+
+
+.footer-teg {
+
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(22, 8, 3);
+    color: rgb(233, 222, 124);
+    margin-top: 120px;
+
+
+}
+
+.last-hint {
+    font-family: 'Sarabun', sans-serif;
+    font-size: 24px;
+    color: rgb(231, 222, 222);
+
+}
+
+.last-p {
+
+    font-family: 'Sarabun', sans-serif;
+    font-size: 16px;
+    color: rgb(231, 222, 222);
+
+
+
+}
